@@ -1,36 +1,58 @@
-# m169_Aslani
+[10]: https://git-scm.com/downloads
 
-## KN01
+:pushpin: **WICHTIG:** <mark>_Diese Zeile **und** den gelb markierten Text in diesem Dokument entfernen oder wo nötig ersetzen mit eigenem Text_</mark>
 
-### A) Git Client installieren und einrichten
+<br>
 
-Befehle die ausgeführt worden sind:
+![**Eigenes Titelbild**](./images/titelbild.png) <mark>_(Ergänzen Sie hier ihr eigenes Titelbild - Landscape, max. 1200px. Selber erstellen, im **./images** ablegen und verlinken)_</mark>
 
-<img width="458" height="98" alt="image" src="https://github.com/user-attachments/assets/c4ed8c18-906d-4c96-b933-b58500f89d55" />
+# M169 Repository
 
-<img width="702" height="947" alt="image" src="https://github.com/user-attachments/assets/5b4876d0-86ed-4bd7-bb09-4e51cc3a6f9f" />
+[TOC]
+
+## Einleitung
+<mark>_Summary mit sinnvollen Erklärungen zum Modul 169. Dazu kann auch ein Large Language Model wie ChatGPT oder Copilot genutzt werden_</mark>
+
+## Kompetenznachweise
+<mark>_Unterverzeichnisse für jeden Kompetenznachweis erstellen und darin wiederum ein README.md und zugehörigen Content_</mark>
+
+- [**KN01**](./KN01/README.md)  <mark>_(Den Ordner **KN01** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
+- [**KN02**](./KN02/README.md)  <mark>_(Den Ordner **KN02** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
+- [**KN03**](./KN03/README.md)  <mark>_(Den Ordner **KN03** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
+- [**KN04**](./KN04/README.md)  <mark>_(Den Ordner **KN04** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
+- [**KN05**](./KN05/README.md)  <mark>_(Den Ordner **KN05** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
+- [**images**](./images) <mark>_(Den Ordner **images** müssen Sie selber erstellen. Dieser ist für Bilder oder Screenshots für das Gesamtprojekt. Also alles, ausser LB2-Pics/Screenshots)_</mark>
+
+## LB2 Projekt
+<mark>_Unterverzeichnis **/LB2**. Darin das **README.md** mit folgender Struktur_</mark>
+- [**./LB2/README.md**](./LB2/README.md) 
+  - TOC <mark>_(Inhaltsverzeichnis mit folgenden Punkten)_</mark>
+  - Einleitung <mark>_Einführende Erklärungen zum Projekt_</mark>
+  - Service-Beschreibung <mark>_Wozu dient die Anwendung_</mark>
+  - Umsetzung <mark>_Eigener Inhalt, frei wählber (Keine Vorgaben)_</mark>
+  - Anwendung <mark>_wie wird der Dienst verfügbar gemacht, wie darauf zugegriffen_</mark>
+  - Quellen <mark>_Ressourcen, die für die Entwicklung der Anwendung genutzt werden_</mark>
+- [**./LB2/images**](./LB2/images) Ordner <mark>_für Bilder, die zum LB2-Projekt verlinkt werden_</mark> 
+
+## Reflexion
+<mark>_Hier halten Sie Ihre Erkenntnisse auf der **metakognitiven Ebene** (recherchieren Sie diesen Begriff) dieses Moduls fest.
+Umfang und Inhalt stehen Ihnen frei_</mark>
 
 
-### B) SSH Keypair erstellen und konfigurieren 
+## Quellenverzeichnis
 
-Konfiguration:
+:pushpin: **WICHTIG:** <mark>_Falls Sie AI nutzen, dann die gestellten Fragen in einem separaten register festhalten_</mark>
 
-<img width="737" height="423" alt="image" src="https://github.com/user-attachments/assets/5d7d3f57-7e4a-4b7b-aed3-c0fc11bf64e7" />
-
-Variante 2 Konfiguration
-
-<img width="768" height="412" alt="image" src="https://github.com/user-attachments/assets/e1d267d1-bfe1-4403-ae0f-a4e0025040a8" />
-
-
-### SSH-Public-Key auf Github hinzufügen
-
-Hier sieht man das ich den Puplic Key auf Github hinzugefügt habe:
-
-<img width="1092" height="516" alt="image" src="https://github.com/user-attachments/assets/1f023069-31b2-4acb-93fc-26c72b58a285" />
+  * [AI Fragen](./ai.md) <mark>_(Erstellen Sie dazu im Hauptverzeichnis das file **ai.md** und kopieren Sie da sämtliche Fragen rein, die sie z.B. ChatGPT gestellt haben)_</mark>
+      * **Beispiel:** Erkläre mir den Begriff "metakognitive Ebene" in einem Satz und leicht verständlich
+  * [1. Quellenbeispiel - GitLab flavored Markdown](https://docs.gitlab.com/ee/user/markdown.html) <mark>_(...weitere Quellenangabe)_</mark>
+  * [2. Quellenbeispiel - Docker Docs](https://docs.docker.com/) <mark>_(...weitere Quellenangabe)_</mark>
 
 
-Verbindung hat erfolgreich funktioniert:
+<br>
 
-<img width="1031" height="570" alt="image" src="https://github.com/user-attachments/assets/7d5e956b-e9e7-4d77-b8cc-35333cfe1fd0" />
+---
 
-hallo wie gehts
+> [⇧ **Nach oben**](#m169-repository)
+
+___
