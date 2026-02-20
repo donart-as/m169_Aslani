@@ -16,7 +16,7 @@
 ## Kompetenznachweise
 <mark>_Unterverzeichnisse für jeden Kompetenznachweis erstellen und darin wiederum ein README.md und zugehörigen Content_</mark>
 
-- [**KN01**](./m169_Aslani/KN01.md)  <mark>_(Den Ordner **KN01** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
+- [**KN01**](./KNs/KN01.md)  <mark>_(Den Ordner **KN01** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
 - [**KN02**](./m169_Aslani/README.md)  <mark>_(Den Ordner **KN02** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
 - [**KN03**](./m169_Aslani/README.md)  <mark>_(Den Ordner **KN03** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
 - [**KN04**](./m169_Aslani/README.md)  <mark>_(Den Ordner **KN04** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
