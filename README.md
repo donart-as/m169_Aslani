@@ -14,9 +14,11 @@ Befehle die ausgeführt worden sind:
 ### B) SSH Keypair erstellen und konfigurieren 
 
 Konfiguration:
+
 <img width="737" height="423" alt="image" src="https://github.com/user-attachments/assets/5d7d3f57-7e4a-4b7b-aed3-c0fc11bf64e7" />
 
 Variante 2 Konfiguration
+
 <img width="768" height="412" alt="image" src="https://github.com/user-attachments/assets/e1d267d1-bfe1-4403-ae0f-a4e0025040a8" />
 
 
