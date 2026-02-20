@@ -14,14 +14,13 @@
 <mark>_Summary mit sinnvollen Erklärungen zum Modul 169. Dazu kann auch ein Large Language Model wie ChatGPT oder Copilot genutzt werden_</mark>
 
 ## Kompetenznachweise
-<mark>_Unterverzeichnisse für jeden Kompetenznachweis erstellen und darin wiederum ein README.md und zugehörigen Content_</mark>
 
-- [**KN01**](./KNs/KN01.md)  <mark>_(Den Ordner **KN01** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
-- [**KN02**](./m169_Aslani/README.md)  <mark>_(Den Ordner **KN02** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
-- [**KN03**](./m169_Aslani/README.md)  <mark>_(Den Ordner **KN03** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
-- [**KN04**](./m169_Aslani/README.md)  <mark>_(Den Ordner **KN04** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
-- [**KN05**](./m169_Aslani/README.md)  <mark>_(Den Ordner **KN05** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
-- [**images**](./images) <mark>_(Den Ordner **images** müssen Sie selber erstellen. Dieser ist für Bilder oder Screenshots für das Gesamtprojekt. Also alles, ausser LB2-Pics/Screenshots)_</mark>
+- [**KN01**](./KNs/KN01.md)
+- [**KN02**](./m169_Aslani/README.md)
+- [**KN03**](./m169_Aslani/README.md)
+- [**KN04**](./m169_Aslani/README.md)
+- [**KN05**](./m169_Aslani/README.md)
+- [**images**](./images)
 
 ## LB2 Projekt
 <mark>_Unterverzeichnis **/LB2**. Darin das **README.md** mit folgender Struktur_</mark>
