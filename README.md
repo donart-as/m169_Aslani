@@ -18,3 +18,16 @@ Konfiguration:
 
 Variante 2 Konfiguration
 <img width="768" height="412" alt="image" src="https://github.com/user-attachments/assets/e1d267d1-bfe1-4403-ae0f-a4e0025040a8" />
+
+
+### SSH-Public-Key auf Github hinzufügen
+
+Hier sieht man das ich den Puplic Key auf Github hinzugefügt habe:
+
+<img width="1092" height="516" alt="image" src="https://github.com/user-attachments/assets/1f023069-31b2-4acb-93fc-26c72b58a285" />
+
+
+Verbindung hat erfolgreich funktioniert:
+
+<img width="1031" height="570" alt="image" src="https://github.com/user-attachments/assets/7d5e956b-e9e7-4d77-b8cc-35333cfe1fd0" />
+
