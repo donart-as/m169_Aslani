@@ -33,4 +33,4 @@ Verbindung hat erfolgreich funktioniert:
 
 <img width="1031" height="570" alt="image" src="https://github.com/user-attachments/assets/7d5e956b-e9e7-4d77-b8cc-35333cfe1fd0" />
 
-hallo
+hallo wie gehts
